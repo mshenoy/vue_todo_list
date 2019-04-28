@@ -35,11 +35,13 @@ export default {
 <style scoped>
 form {
   display: flex;
+  margin-bottom: 0.5rem;
 }
 
 input[type="text"] {
   flex: 10;
   padding: 5px;
+  font-size: 1.3rem;
 }
 
 input[type="submit"] {
