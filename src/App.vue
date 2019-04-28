@@ -36,6 +36,6 @@ body {
   cursor: pointer;
 }
 .btn:hover {
-  background: #666;
+  background: #333;
 }
 </style>
