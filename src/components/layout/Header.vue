@@ -20,6 +20,10 @@ header {
   padding: 1rem;
 }
 
+h1 {
+  margin-bottom: 0.5rem;
+}
+
 header a {
   color: #fff;
   padding-right: 5px;
